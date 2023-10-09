@@ -17,7 +17,7 @@ title: Kate Bailey
 email: ktbailey@unc.edu
 description: I am a student at UNC studying computer science and philosophy. I work for our student newspaper and our college radio station. I'm an amateur film photographer.
 twitter_username:
-github_username: ktbaileyunc
+github_username:
 minimal_mistakes_skin: air
 search: true
 
@@ -56,18 +56,18 @@ plugins:
 
 author:
   name   : "Kate Bailey"
-  avatar : "https://avatars.githubusercontent.com/u/111456484?v=4"
+  avatar : "assets/images/bio-photo.jpg"
   bio    : "I'm a student at UNC studying computer science and philosophy."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/katecbailey"
-    - label: "DTH Writer Page"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.dailytarheel.com/staff/kate-bailey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ktbaileyunc"
+    - label: "DTH Writer Page"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.dailytarheel.com/staff/kate-bailey"
 
 footer:
   #links:
