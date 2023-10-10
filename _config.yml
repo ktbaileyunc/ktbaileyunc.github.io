@@ -19,7 +19,7 @@ description: I am a student at UNC studying computer science and philosophy. I w
 twitter_username:
 github_username:
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -65,9 +65,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ktbaileyunc"
-    - label: "DTH writer page"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.dailytarheel.com/staff/kate-bailey"
+    # - label: "DTH writer page"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.dailytarheel.com/staff/kate-bailey"
 
 footer:
   #links:
