@@ -26,10 +26,13 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Education
 **University of North Carolina at Chapel Hill** / Expected May 2026
+
 *B.A. in Computer Science; B.A. in Philosophy*
-* Memmber of Honors Carolina, a highly selective academic program admitting 10% of each incoming class
+* Member of Honors Carolina, a highly selective academic program admitting 10% of each incoming class
+
 
 **Choate Rosemary Hall** / May 2022
+
 *High School Diploma*
 
 ## Community Involvement
