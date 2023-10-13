@@ -24,11 +24,22 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 * Design attractive and accessible data visualizations for [website](https://www.dailytarheel.com) and print paper, including front page
 * As senior reporter, pitch and assemble data-centered investigative stories about university and local news
 
+## Education
+**University of North Carolina at Chapel Hill** / Expected May 2026
+*B.A. in Computer Science; B.A. in Philosophy*
+* Memmber of Honors Carolina, a highly selective academic program admitting 10% of each incoming class
+
+**Choate Rosemary Hall** / May 2022
+*High School Diploma*
+
 ## Community Involvement
 **Disc Jockey** / WXYC 89.3 FM / Jan. 2023-present
 * As disc jockey for college [radio station](https://www.wxyc.org), host weekly 2-3 hour music show; select releases from vast station library to create diverse yet coherent show, emphasizing similarities between seemingly disparate types of music
 * Programmed parts of WXYC’s new Android mobile app using Kotlin, including the app’s “about us” and contact section; collaborated on development as member of 3-person app team
 
 **Ethics Fellow** / UNC Parr Center for Ethics / Sep. 2023-present
-* Description
-* Description
+
+## Skills
+* *Programming languages:* Python, Java, Kotlin, R, JavaScript (familiar), C (familiar)
+* *Tools & technologies:* HTML, CSS, Git, React Native, Tableau, Flourish, Adobe Illustrator
+* *Relevant coursework:* Data Structures and Analysis, Discrete Mathematics, Systems Fundamentals, Introduction to Programming and Data Science
