@@ -9,7 +9,7 @@ header:
 
 
 ---
-Since January 2023, I've been a data reporter for [The Daily Tar Heel](https://www.dailytarheel.com), UNC's independent student newspaper. I primarily work with DTH writers and editors who want to add some sort of data component to their stories. I was also recently promoted to become one of the DTH's first senior data reporters; I'm currently in the process of assembling my first investigative data story.
+Since January 2023, I've been a data reporter for [The Daily Tar Heel](https://www.dailytarheel.com), UNC's independent student newspaper. I primarily work with DTH writers and editors who want to add some sort of data component to their stories. I try to make my visualizations informative, accessible, and pretty — it can be a tricky balance, but I've learned a lot since starting. I was also recently promoted to become one of the DTH's first senior data reporters; I'm currently in the process of assembling my first investigative data story.
 
 ### Some of my visualizations:
 
