@@ -9,7 +9,7 @@ header:
 
 ---
 
-Hi there! I'm a sophomore at the University of North Carolina at Chapel Hill studying computer science and philosophy. In short, I'm passionate about doing good things with technology. I hope to use software engineering and data analysis to build tools that benefit the communities I care about. My work for The Daily Tar Heel as a data reporter has given me a taste of what it feels like to turn numbers into something that brings new knowledge to readers.
+Hi there! I'm a sophomore at the University of North Carolina at Chapel Hill studying computer science and philosophy. In short, I'm passionate about doing good things with technology. I hope to use software engineering and data analysis to build tools that benefit the communities I care about. My work for The Daily Tar Heel as a data reporter has given me a taste of what it feels like to turn numbers into something that brings new insights to readers.
 
 I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in Wallingford, CT. In my free time, you can often find me watching C-SPAN, snapping blurry film photos, or reading albums' liner notes at my college radio station.
 
@@ -22,7 +22,7 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 **Senior Data Reporter** / The Daily Tar Heel / Jan. 2023-present
 *	Source, clean, and analyze large public data sets using R, Python, Excel, and GIS software
 * Design attractive and accessible data visualizations for [website](https://www.dailytarheel.com) and print paper, including front page
-* As senior reporter, pitch and assemble data-centered investigative stories about university and local news
+* As senior reporter, pitch data-centered investigative stories about university and local news
 
 ## Education
 **University of North Carolina at Chapel Hill** / Expected May 2026
