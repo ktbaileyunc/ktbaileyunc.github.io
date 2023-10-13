@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kate Bailey"
+title: "About me"
 layout: single
 author_profile: true
 header:
@@ -9,7 +9,7 @@ header:
 
 ---
 
-Hi there! I'm a sophomore at the University of North Carolina at Chapel Hill studying computer science and philosophy. In short, I'm passionate about doing good things with technology. I hope to use software engineering and data analysis to build tools that benefit the communities I care about. My work for The Daily Tar Heel as a data reporter has given me a taste of what it feels like to turn numbers into something that brings new insights to readers.
+Hi there! I'm a sophomore at the University of North Carolina at Chapel Hill studying computer science and philosophy. In short, I'm passionate about doing good things with technology. I hope to use software engineering and data analysis to build tools that benefit the communities I care about. My work as a data reporter for The Daily Tar Heel has given me a taste of what it feels like to turn numbers into something that brings new insights to readers.
 
 I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in Wallingford, CT. In my free time, you can often find me watching C-SPAN, snapping blurry film photos, or reading albums' liner notes at my college radio station.
 
@@ -26,14 +26,11 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Education
 **University of North Carolina at Chapel Hill** / Expected May 2026
-
-*B.A. in Computer Science; B.A. in Philosophy*
+* *B.A. in Computer Science; B.A. in Philosophy*
 * Member of Honors Carolina, a highly selective academic program admitting 10% of each incoming class
 
-
 **Choate Rosemary Hall** / May 2022
-
-*High School Diploma*
+* *High School Diploma*
 
 ## Community Involvement
 **Disc Jockey** / WXYC 89.3 FM / Jan. 2023-present
