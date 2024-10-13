@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Data Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /#work-experience
