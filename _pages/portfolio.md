@@ -4,11 +4,11 @@ title: "Data visualization portfolio"
 author_profile: true
 layout: single
 header:
-  overlay_image: /assets/images/header.JPG
+  overlay_image: /assets/images/header.jpg
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
 ---
-Since January 2023, I've been a data reporter for [The Daily Tar Heel](https://www.dailytarheel.com), UNC's independent student newspaper. I primarily work with DTH writers and editors who want to add some sort of data component to their stories. I try to make my visualizations informative, accessible, and pretty — it can be a tricky balance, but I've learned a lot since starting. I was also recently promoted to become one of the DTH's first senior data reporters; I'm currently in the process of assembling my first investigative data story.
+Since January 2023, I've been a data reporter for [The Daily Tar Heel](https://www.dailytarheel.com){:target="_blank"}, UNC's independent student newspaper. I primarily work with DTH writers and editors who want to add some sort of data component to their stories. I try to make my visualizations informative, accessible, and pretty — it can be a tricky balance, but I've learned a lot since starting. I was also recently promoted to become one of the DTH's first senior data reporters; I'm currently in the process of assembling my first investigative data story.
 
 ### Some of my visualizations:
 
@@ -20,4 +20,4 @@ Since January 2023, I've been a data reporter for [The Daily Tar Heel](https://w
 {% include figure image_path="/assets/images/sexualassault.png" alt="Data visualization for sexual assault story." caption="This visualization is part of the final installment of a DTH series examining UNC Police crime-log data. [[Article]](https://www.dailytarheel.com/article/2023/04/university-sexual-assault-crime-log-data-unc-chapel-hill)" %}
 
 
-If you've made it this far, I've also written for The Daily Tar Heel. Well, so far, I have [exactly one byline](https://www.dailytarheel.com/article/2023/06/city-chapel-hill-carrboro-pride-preview) to my name. [My favorite story](https://thechoatenews.choate.edu/2022/04/02/choates-radio-station-its-dead-air-from-here/) I've written was for my high school's newspaper; it was about our now-defunct radio station. I liked writing it so much that I joined the college radio station once I got to UNC.
+If you've made it this far, I've also written for The Daily Tar Heel. Well, so far, I have [exactly one byline](https://www.dailytarheel.com/article/2023/06/city-chapel-hill-carrboro-pride-preview){:target="_blank"} to my name. [My favorite story](https://thechoatenews.choate.edu/2022/04/02/choates-radio-station-its-dead-air-from-here/){:target="_blank"} I've written was for my high school's newspaper; it was about our now-defunct radio station. I liked writing it so much that I joined the college radio station once I got to UNC.

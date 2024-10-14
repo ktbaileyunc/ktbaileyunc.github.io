@@ -4,7 +4,7 @@ title: "About me"
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/header.JPG
+  overlay_image: /assets/images/header.jpg
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 classes: wide
 
@@ -18,12 +18,12 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Work Experience
 **Software Development Intern** / SAS / May 2024 – Aug. 2024
-* As intern on source management team, wrote Python scripts to validate large-scale source-code migrations from old version control system to Git
+* As member of source management team, wrote Python scripts to validate large-scale source-code migrations from old version control system to Git
 * Created, updated, and ran Jenkins jobs to automate Git migrations per developer requests
-* Worked on internal, developer-facing site using PHP and MySQL
+* Worked on feature improvements and bug fixes for internal, developer-facing site using PHP and MySQL
 
 **Teaching Assistant** / UNC Department of Computer Science / Aug. 2023 – present
-* Tutor students in UNC’s introductory programming course, [COMP 110](https://comp110-24f.github.io/), which enrolls 800+ students per semester
+* Tutor students in UNC’s introductory programming course, [COMP 110](https://comp110-24f.github.io/){:target="_blank"}, which enrolls 800+ students per semester
 * Work one-on-one with students in office hours, explaining fundamental Python programming concepts and providing guidance on class assignments
 * Assist students with class exercises during lectures, answering questions and fixing technical issues on the fly
 
@@ -31,7 +31,7 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 * Led the DTH’s data desk, managing 15 staffers and working with editors across the newsroom
 * Edited staffers’ data visualizations for accuracy, design, and accessibility; communicated with other desks’ editors to ensure articles clearly represent findings from data
 * Pitched and reported on data-driven stories; uncovered data by making public-records requests
-* From Jan. to Dec. 2023, created [data visualizations](/portfolio/) for [DTH website](https://www.dailytarheel.com) and print paper using Python, Excel, and GIS, as one of the data desk's first senior reporters
+* From Jan. to Dec. 2023, created [data visualizations](/portfolio/) for [DTH website](https://www.dailytarheel.com){:target="_blank"} and print paper using Python, Excel, and GIS, as one of the data desk's first senior reporters
 
 
 ## Education
@@ -42,7 +42,7 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Community Involvement
 **Disc Jockey** / WXYC 89.3 FM / Jan. 2023 – present
-* As disc jockey for college [radio station](https://www.wxyc.org), host weekly two-hour music show; select releases from vast station library to create diverse yet coherent show, emphasizing similarities between seemingly disparate types of music
+* As disc jockey for college [radio station](https://www.wxyc.org){:target="_blank"}, host weekly two-hour music show; select releases from vast station library to create diverse yet coherent show, emphasizing similarities between seemingly disparate types of music
 * Programmed parts of WXYC’s new Android mobile app using Kotlin, including the app’s “about us” and contact section; collaborated on development as member of three-person app team
 
 **Ethics and Computing Fellow** / UNC Parr Center for Ethics / Sep. 2023 – present
@@ -54,4 +54,4 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Awards
 **First Place in Digital Storytelling** / 2023 NC College Media Association Awards
-* Received for work done on a [live election-results map](https://www.dailytarheel.com/article/2023/11/live-election-results-chapel-hill-carrboro) published on the Daily Tar Heel website
+* Received for work done on a [live election-results map](https://www.dailytarheel.com/article/2023/11/live-election-results-chapel-hill-carrboro){:target="_blank"} published on the Daily Tar Heel website
