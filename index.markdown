@@ -17,7 +17,7 @@ My work as a data reporter for The Daily Tar Heel has given me a taste of what i
 I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in Wallingford, CT. In my free time, you can often find me watching C-SPAN, snapping blurry film photos, or reading albums' liner notes at my college radio station.
 
 ## Work Experience
-**Software Development Intern** / SAS / May. 2024 – Aug. 2024
+**Software Development Intern** / SAS / May 2024 – Aug. 2024
 * As intern on source management team, wrote Python scripts to validate large-scale source-code migrations from old version control system to Git
 * Created, updated, and ran Jenkins jobs to automate Git migrations per developer requests
 * Worked on internal, developer-facing site using PHP and MySQL

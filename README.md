@@ -1,0 +1,1 @@
+This repository contains the code for my personal website, which is hosted on GitHub pages and built with Jekyll using the Minimal Mistakes theme.
