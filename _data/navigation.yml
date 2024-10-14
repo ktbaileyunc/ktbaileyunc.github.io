@@ -5,3 +5,4 @@ main:
     url: /portfolio/
   - title: "Resume"
     url: /assets/files/kate-bailey-UNC-resume.pdf
+    target: _blank

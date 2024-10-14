@@ -18,7 +18,7 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Work Experience
 **Software Development Intern** / SAS / May 2024 – Aug. 2024
-* As member of source management team, wrote Python scripts to validate large-scale source-code migrations from old version control system to Git
+* As member of source management team, wrote Python scripts to validate large-scale source-code migrations from old version control system[^1] to Git
 * Created, updated, and ran Jenkins jobs to automate Git migrations per developer requests
 * Worked on feature improvements and bug fixes for internal, developer-facing site using PHP and MySQL
 
@@ -49,9 +49,13 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 
 ## Skills
 * *Programming languages:* Python, Java, JavaScript, Kotlin, C
-* *Tools & technologies:* HTML, CSS, Git/GitHub, React, Angular, SQL, Tableau, Flourish, Adobe Illustrator
+* *Tools & technologies:* HTML, CSS, Git/GitHub, React, Angular, SQL, Unix, Tableau, Flourish, Adobe Illustrator
 * *Relevant coursework:* Data Structures and Analysis, Discrete Mathematics, Object-Oriented Programming, Computer Organization, Foundations of Software Engineering
 
 ## Awards
 **First Place in Digital Storytelling** / 2023 NC College Media Association Awards
 * Received for work done on a [live election-results map](https://www.dailytarheel.com/article/2023/11/live-election-results-chapel-hill-carrboro){:target="_blank"} published on the Daily Tar Heel website
+
+<p>&nbsp;  </p>
+
+[^1]: Concurrent Versions System, or [CVS](https://en.wikipedia.org/wiki/Concurrent_Versions_System){:target="_blank"}.
