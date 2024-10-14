@@ -12,7 +12,7 @@ classes: wide
 
 Hi there! I'm a junior at the University of North Carolina at Chapel Hill studying computer science and philosophy. In short, I'm passionate about doing good things with technology. I hope to use software engineering and data analysis to build tools that benefit the communities I care about.
 
-My work as a data reporter for The Daily Tar Heel has given me a taste of what it feels like to turn numbers into something that brings new insights to readers. Last summer, I interned at SAS, where I learned, among other things, what it's like to work on a small team at a large company.
+My work as a data reporter for The Daily Tar Heel has given me a taste of what it feels like to turn numbers into something that brings new insights to readers. Last summer, I interned at SAS, where I learned, among other things, what it's like to try to make change as a small team at a large company.
 
 I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in Wallingford, CT. In my free time, you can often find me watching C-SPAN, snapping blurry film photos, or reading albums' liner notes at my college radio station.
 
@@ -23,7 +23,7 @@ I'm originally from Charlotte, NC, and I graduated from Choate Rosemary Hall in 
 * Worked on internal, developer-facing site using PHP and MySQL
 
 **Teaching Assistant** / UNC Department of Computer Science / Aug. 2023 – present
-* Tutor students in UNC’s introductory programming course, [COMP 110](https://23f.comp110.com), which enrolls 650+ students per semester
+* Tutor students in UNC’s introductory programming course, [COMP 110](https://comp110-24f.github.io/), which enrolls 800+ students per semester
 * Work one-on-one with students in office hours, explaining fundamental Python programming concepts and providing guidance on class assignments
 * Assist students with class exercises during lectures, answering questions and fixing technical issues on the fly
 
